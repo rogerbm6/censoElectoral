@@ -8,16 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class Empresa extends Model
 {
     use HasFactory;
-    
-    protected $fillable = [
-        'epigrafe',
-        'nombre_epigrafe',
-        'nombre',
-        'nif',
-        'direccion',
-        'grupo',
-        'categoria_grupo',
-        'categoria_electoral',
-        'categoria_electoral_nombre'
-    ];
+    protected $guarded = [];
 }

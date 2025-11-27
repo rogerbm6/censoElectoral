@@ -1,1 +1,86 @@
-*.sqlite*
+# ======================================
+# Laravel / Framework
+# ======================================
+
+/vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+.DS_Store
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Laravel caches & compiled files
+/bootstrap/cache/*.php
+/storage/*.key
+/storage/app/*
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+/storage/logs/*.log
+
+# Ignore all storage except:
+!storage/app/public/
+!storage/framework/
+!storage/framework/cache/
+!storage/framework/sessions/
+!storage/framework/testing/
+!storage/framework/views/
+!storage/logs/
+
+# ======================================
+# Vite / Frontend
+# ======================================
+/public/build/
+public/hot
+public/storage
+
+# ======================================
+# Composer
+# ======================================
+composer.phar
+
+# ======================================
+# IDE & OS files
+# ======================================
+# PhpStorm
+/.idea
+# VS Code
+.vscode/
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.log
+
+# ======================================
+# PHPUnit
+# ======================================
+.phpunit.cache
+.phpunit.result.cache
+
+# ======================================
+# Node / PM2
+# ======================================
+.pids
+*.pid
+*.seed
+*.pid.lock
+
+# ======================================
+# Misc
+# ======================================
+*.bak
+*.tmp
+*.swp
+*.swo
+*.orig
