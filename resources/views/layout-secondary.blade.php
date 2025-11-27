@@ -12,13 +12,11 @@
     </style>
 
     <!-- This site is optimized with the Yoast SEO plugin v25.3.1 - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>Impulsa StarUp - Camara de Comercio</title>
+    <title>Censo Electoral - Camara de Comercio</title>
     <link rel="canonical" href="https://camaralanzarote.org/emprendimiento/impulsa-startup/" />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Impulsa StarUp - Camara de Comercio" />
-    <meta property="og:description"
-        content="Convierte tu idea en un proyecto real Haz realidad tu idea innovadora y transfórmala en un negocio viable. Con el respaldo de expertos en emprendimiento, te acompañamos en cada paso para validar tu propuesta, acelerar su crecimiento y construir un..." />
+    <meta property="og:title" content="Censo Electoral - Camara de Comercio" />
     <meta property="og:url" content="https://camaralanzarote.org/emprendimiento/impulsa-startup/" />
     <meta property="og:site_name" content="Camara de Comercio" />
     <meta property="article:publisher" content="https://www.facebook.com/CamaraLanzarote" />
@@ -1121,7 +1119,8 @@
                                         id="menu-item-13351"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13351 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center">
                                         <a class=" pix-nav-link text-heading-default nav-link animate-in" target="_self"
-                                            href="/portal-de-transparencia/" data-anim-type="fade-in"><span
+                                            href="https://camaralanzarote.org/portal-de-transparencia/"
+                                            data-anim-type="fade-in"><span
                                                 class="pix-dropdown-title text-sm  pix-header-text">Transparencia y Buen
                                                 Gobierno</span></a>
                                     </li>
@@ -1288,7 +1287,8 @@
                                                     id="menu-item-13933"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-13933 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                     <a class=" font-weight-bold pix-nav-link  dropdown-item dropdown-toggle"
-                                                        target="_self" href="/creacion-de-empresas/"
+                                                        target="_self"
+                                                        href="https://camaralanzarote.org/creacion-de-empresas/"
                                                         data-toggle="dropdown" aria-expanded="false"
                                                         aria-haspopup="true" id="menu-item-dropdown-13933"><span
                                                             class="pix-dropdown-title  text-body-default  font-weight-bold">Creación
@@ -1322,7 +1322,7 @@
                                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13935 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                                     <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                                         target="_self"
-                                                                        href="/creacion-de-empresas/solicita-tu-plan-de-empresa/"><span
+                                                                        href="https://camaralanzarote.org/creacion-de-empresas/solicita-tu-plan-de-empresa/"><span
                                                                             class="pix-dropdown-title  text-body-default  font-weight-bold">Elabora
                                                                             tu plan de empresa</span></a>
                                                                 </div>
@@ -1336,7 +1336,7 @@
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13936 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                     <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                         target="_self"
-                                                        href="/creacion-de-empresas/ventanilla-unica-empresarial/"><span
+                                                        href="https://camaralanzarote.org/creacion-de-empresas/ventanilla-unica-empresarial/"><span
                                                             class="pix-dropdown-title  text-body-default  font-weight-bold">Ventanilla
                                                             Única Empresarial</span></a>
                                                 </div>
@@ -1346,7 +1346,7 @@
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13937 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                     <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                         target="_self"
-                                                        href="/emprendimiento/subvencion-promocion-empleo-autonomo/"><span
+                                                        href="https://camaralanzarote.org/emprendimiento/subvencion-promocion-empleo-autonomo/"><span
                                                             class="pix-dropdown-title  text-body-default  font-weight-bold">Subvención
                                                             Promoción Empleo Autónomo</span></a>
                                                 </div>
@@ -1356,7 +1356,7 @@
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13938 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                     <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                         target="_self"
-                                                        href="/creacion-de-empresas/programa-semillas-de-talento/"><span
+                                                        href="https://camaralanzarote.org/creacion-de-empresas/programa-semillas-de-talento/"><span
                                                             class="pix-dropdown-title  text-body-default  font-weight-bold">Semillas
                                                             de talento</span></a>
                                                 </div>
@@ -1529,7 +1529,7 @@
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3324 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                     <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                         target="_self"
-                                                        href="/formacion-y-empleo/programa-integral-de-cualificacion-y-empleo/"><span
+                                                        href="https://camaralanzarote.org/formacion-y-empleo/programa-integral-de-cualificacion-y-empleo/"><span
                                                             class="pix-dropdown-title  text-body-default  font-weight-bold">Talento
                                                             Joven (Antiguo PICE)</span></a>
                                                 </div>
@@ -1538,7 +1538,8 @@
                                                     id="menu-item-3326"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3326 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                     <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                        target="_self" href="/formacion-y-empleo/espana-emprende/"><span
+                                                        target="_self"
+                                                        href="https://camaralanzarote.org/formacion-y-empleo/espana-emprende/"><span
                                                             class="pix-dropdown-title  text-body-default  font-weight-bold">España
                                                             Emprende</span></a>
                                                 </div>
@@ -1547,7 +1548,8 @@
                                                     id="menu-item-3318"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3318 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                     <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                        target="_self" href="/formacion-y-empleo/acredita/"><span
+                                                        target="_self"
+                                                        href="https://camaralanzarote.org/formacion-y-empleo/acredita/"><span
                                                             class="pix-dropdown-title  text-body-default  font-weight-bold">Acredita</span></a>
                                                 </div>
                                                 <div itemscope="itemscope"
@@ -1555,7 +1557,8 @@
                                                     id="menu-item-3323"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-3323 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                     <a class=" font-weight-bold pix-nav-link  dropdown-item dropdown-toggle"
-                                                        target="_self" href="/formacion-profesional-dual/"
+                                                        target="_self"
+                                                        href="https://camaralanzarote.org/formacion-profesional-dual/"
                                                         data-toggle="dropdown" aria-expanded="false"
                                                         aria-haspopup="true" id="menu-item-dropdown-3323"><span
                                                             class="pix-dropdown-title  text-body-default  font-weight-bold">FP
@@ -1578,7 +1581,7 @@
                                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3325 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                                     <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                                         target="_self"
-                                                                        href="/formacion-y-empleo/premios-fp-pymes/"><span
+                                                                        href="https://camaralanzarote.org/formacion-y-empleo/premios-fp-pymes/"><span
                                                                             class="pix-dropdown-title  text-body-default  font-weight-bold">Premio
                                                                             FP Dual</span></a>
                                                                 </div>
@@ -1591,7 +1594,7 @@
                                                     id="menu-item-3327"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3327 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                     <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                        target="_self" href="/agenda/"><span
+                                                        target="_self" href="https://camaralanzarote.org/agenda/"><span
                                                             class="pix-dropdown-title  text-body-default  font-weight-bold">Agenda/Oferta
                                                             formativa</span></a>
                                                 </div>
@@ -1654,7 +1657,8 @@
                                                     id="menu-item-3336"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3336 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                     <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                        target="_self" href="/internacional/gestion-documental/"><span
+                                                        target="_self"
+                                                        href="https://camaralanzarote.org/internacional/gestion-documental/"><span
                                                             class="pix-dropdown-title  text-body-default  font-weight-bold">Gestión
                                                             documental/trámites</span></a>
                                                 </div>
@@ -1694,7 +1698,8 @@
                                                                     alt="" decoding="async"
                                                                     srcset="https://camaralanzarote.org/wp-content/uploads/2024/02/menu_banner_coworking.jpeg 427w, https://camaralanzarote.org/wp-content/uploads/2024/02/menu_banner_coworking-300x200.jpeg 300w"
                                                                     sizes="(max-width: 427px) 100vw, 427px" /><a
-                                                                    target="_blank" href="/coworking/"
+                                                                    target="blank"
+                                                                    href="https://camaralanzarote.org/coworking/"
                                                                     class="pix-img-overlay pix-box-container d-md-flex align-items-center w-100 justify-content-center pix-p-20">
                                                                     <div
                                                                         class="h6 heading-font text-heading-default font-weight-bold pix-box-title">
@@ -1725,7 +1730,7 @@
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14082 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                             <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                                 target="_self"
-                                                                href="/alquiler-de-oficinas-y-salas"><span
+                                                                href="https://camaralanzarote.org/alquiler-de-oficinas-y-salas"><span
                                                                     class="pix-dropdown-title  text-body-default  font-weight-bold">Alquiler
                                                                     de espacios y tarifas de difusión</span></a>
                                                         </div>
@@ -1734,7 +1739,8 @@
                                                             id="menu-item-14083"
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14083 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                             <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                                target="_self" href="/club-camara/"><span
+                                                                target="_self"
+                                                                href="https://camaralanzarote.org/club-camara/"><span
                                                                     class="pix-dropdown-title  text-body-default  font-weight-bold">Club
                                                                     Cámara</span></a>
                                                         </div>
@@ -1743,7 +1749,8 @@
                                                             id="menu-item-14085"
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14085 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                             <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                                target="_self" href="/vuer/"><span
+                                                                target="_self"
+                                                                href="https://camaralanzarote.org/vuer/"><span
                                                                     class="pix-dropdown-title  text-body-default  font-weight-bold">VUER</span></a>
                                                         </div>
                                                         <div itemscope="itemscope"
@@ -1751,7 +1758,8 @@
                                                             id="menu-item-14084"
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14084 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                             <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                                target="_self" href="/servicios/incubadora/"><span
+                                                                target="_self"
+                                                                href="https://camaralanzarote.org/servicios/incubadora/"><span
                                                                     class="pix-dropdown-title  text-body-default  font-weight-bold">Incubadora</span></a>
                                                         </div>
                                                         <div itemscope="itemscope"
@@ -1759,7 +1767,8 @@
                                                             id="menu-item-14086"
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14086 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                             <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                                target="_self" href="/ayudas"><span
+                                                                target="_self"
+                                                                href="https://camaralanzarote.org/ayudas"><span
                                                                     class="pix-dropdown-title  text-body-default  font-weight-bold">Unidad
                                                                     de gestión de ayudas</span></a>
                                                         </div>
@@ -1779,7 +1788,7 @@
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14081 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                             <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                                 target="_self"
-                                                                href="/servicios/certificado-digital/"><span
+                                                                href="https://camaralanzarote.org/servicios/certificado-digital/"><span
                                                                     class="pix-dropdown-title  text-body-default  font-weight-bold">Certificado
                                                                     Digital</span></a>
                                                         </div>
@@ -1789,7 +1798,7 @@
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22012 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                             <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                                 target="_self"
-                                                                href="/servicios/censo-publico-de-empresas/"><span
+                                                                href="https://camaralanzarote.org/servicios/censo-publico-de-empresas/"><span
                                                                     class="pix-dropdown-title  text-body-default  font-weight-bold">Censo
                                                                     público de Empresas</span></a>
                                                         </div>
@@ -1821,7 +1830,7 @@
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14088 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                             <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                                 target="_self"
-                                                                href="/servicios/carta-de-servicios/"><span
+                                                                href="https://camaralanzarote.org/servicios/carta-de-servicios/"><span
                                                                     class="pix-dropdown-title  text-body-default  font-weight-bold">Carta
                                                                     de servicios</span></a>
                                                         </div>
@@ -1830,7 +1839,8 @@
                                                             id="menu-item-15101"
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15101 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                             <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                                target="_self" href="/coworking/"><span
+                                                                target="_self"
+                                                                href="https://camaralanzarote.org/coworking/"><span
                                                                     class="pix-dropdown-title  text-body-default  font-weight-bold">Coworking
                                                                     Digital</span></a>
                                                         </div>
@@ -1839,7 +1849,8 @@
                                                             id="menu-item-17969"
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17969 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                             <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                                target="_self" href="/subvenciones"><span
+                                                                target="_self"
+                                                                href="https://camaralanzarote.org/subvenciones"><span
                                                                     class="pix-dropdown-title  text-body-default  font-weight-bold">Ayudas
                                                                     y subvenciones</span></a>
                                                         </div>
@@ -1849,7 +1860,7 @@
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14089 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                             <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                                 target="_self"
-                                                                href="/servicios/corte-de-arbitraje-y-mediacion/"><span
+                                                                href="https://camaralanzarote.org/servicios/corte-de-arbitraje-y-mediacion/"><span
                                                                     class="pix-dropdown-title  text-body-default  font-weight-bold">Corte
                                                                     de arbitraje y mediación</span></a>
                                                         </div>
@@ -1859,7 +1870,7 @@
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14087 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                             <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                                 target="_self"
-                                                                href="/area-de-estudios-economicos/"><span
+                                                                href="https://camaralanzarote.org/area-de-estudios-economicos/"><span
                                                                     class="pix-dropdown-title  text-body-default  font-weight-bold">Estudios
                                                                     económicos</span></a>
                                                         </div>
@@ -1869,7 +1880,7 @@
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22514 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                             <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                                 target="_self"
-                                                                href="/servicios/certificacion-de-sistemas-de-gestion/"><span
+                                                                href="https://camaralanzarote.org/servicios/certificacion-de-sistemas-de-gestion/"><span
                                                                     class="pix-dropdown-title  text-body-default  font-weight-bold">Cámara
                                                                     Certifica</span></a>
                                                         </div>
@@ -1894,7 +1905,8 @@
                         <div class="d-inline-flex align-items-center d-inline-block2 text-sm mb-0">
                             <a data-anim-type="disabled"
                                 class="btn btn-primary font-weight-bold d-inline-flex align-items-center mr-0"
-                                href="/coworking/" style="" data-popup-id="" data-popup-link="">
+                                href="https://camaralanzarote.org/coworking/" style="" data-popup-id=""
+                                data-popup-link="">
                                 <span>Coworking</span>
                             </a>
                         </div>
@@ -1946,7 +1958,8 @@
                                 <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13351 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center">
                                     <a class=" font-weight-bold pix-nav-link text-body-default nav-link animate-in"
-                                        target="_self" href="/portal-de-transparencia/" data-anim-type="fade-in"><span
+                                        target="_self" href="https://camaralanzarote.org/portal-de-transparencia/"
+                                        data-anim-type="fade-in"><span
                                             class="pix-dropdown-title text-sm  pix-header-text">Transparencia y Buen
                                             Gobierno</span></a>
                                 </li>
@@ -2123,8 +2136,9 @@
                                                 itemtype="https://www.schema.org/SiteNavigationElement"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-13933 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                 <a class=" font-weight-bold pix-nav-link  dropdown-item dropdown-toggle"
-                                                    target="_self" href="/creacion-de-empresas/" data-toggle="dropdown"
-                                                    aria-expanded="false" aria-haspopup="true"
+                                                    target="_self"
+                                                    href="https://camaralanzarote.org/creacion-de-empresas/"
+                                                    data-toggle="dropdown" aria-expanded="false" aria-haspopup="true"
                                                     id="m-menu-item-dropdown-13933"><span
                                                         class="pix-dropdown-title  text-body-default  font-weight-bold">Creación
                                                         de empresas<svg class="pixfort-icon pixfort-dropdown-arrow pl-2"
@@ -2154,7 +2168,7 @@
                                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13935 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                                 <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                                     target="_self"
-                                                                    href="/creacion-de-empresas/solicita-tu-plan-de-empresa/"><span
+                                                                    href="https://camaralanzarote.org/creacion-de-empresas/solicita-tu-plan-de-empresa/"><span
                                                                         class="pix-dropdown-title  text-body-default  font-weight-bold">Elabora
                                                                         tu plan de empresa</span></a>
                                                             </div>
@@ -2166,7 +2180,7 @@
                                                 itemtype="https://www.schema.org/SiteNavigationElement"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13936 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                 <a class=" font-weight-bold pix-nav-link  dropdown-item" target="_self"
-                                                    href="/creacion-de-empresas/ventanilla-unica-empresarial/"><span
+                                                    href="https://camaralanzarote.org/creacion-de-empresas/ventanilla-unica-empresarial/"><span
                                                         class="pix-dropdown-title  text-body-default  font-weight-bold">Ventanilla
                                                         Única Empresarial</span></a>
                                             </div>
@@ -2174,7 +2188,7 @@
                                                 itemtype="https://www.schema.org/SiteNavigationElement"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13937 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                 <a class=" font-weight-bold pix-nav-link  dropdown-item" target="_self"
-                                                    href="/emprendimiento/subvencion-promocion-empleo-autonomo/"><span
+                                                    href="https://camaralanzarote.org/emprendimiento/subvencion-promocion-empleo-autonomo/"><span
                                                         class="pix-dropdown-title  text-body-default  font-weight-bold">Subvención
                                                         Promoción Empleo Autónomo</span></a>
                                             </div>
@@ -2182,7 +2196,7 @@
                                                 itemtype="https://www.schema.org/SiteNavigationElement"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13938 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                 <a class=" font-weight-bold pix-nav-link  dropdown-item" target="_self"
-                                                    href="/creacion-de-empresas/programa-semillas-de-talento/"><span
+                                                    href="https://camaralanzarote.org/creacion-de-empresas/programa-semillas-de-talento/"><span
                                                         class="pix-dropdown-title  text-body-default  font-weight-bold">Semillas
                                                         de talento</span></a>
                                             </div>
@@ -2328,7 +2342,7 @@
                                                 itemtype="https://www.schema.org/SiteNavigationElement"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3324 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                 <a class=" font-weight-bold pix-nav-link  dropdown-item" target="_self"
-                                                    href="/formacion-y-empleo/programa-integral-de-cualificacion-y-empleo/"><span
+                                                    href="https://camaralanzarote.org/formacion-y-empleo/programa-integral-de-cualificacion-y-empleo/"><span
                                                         class="pix-dropdown-title  text-body-default  font-weight-bold">Talento
                                                         Joven (Antiguo PICE)</span></a>
                                             </div>
@@ -2336,7 +2350,7 @@
                                                 itemtype="https://www.schema.org/SiteNavigationElement"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3326 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                 <a class=" font-weight-bold pix-nav-link  dropdown-item" target="_self"
-                                                    href="/formacion-y-empleo/espana-emprende/"><span
+                                                    href="https://camaralanzarote.org/formacion-y-empleo/espana-emprende/"><span
                                                         class="pix-dropdown-title  text-body-default  font-weight-bold">España
                                                         Emprende</span></a>
                                             </div>
@@ -2344,14 +2358,15 @@
                                                 itemtype="https://www.schema.org/SiteNavigationElement"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3318 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                 <a class=" font-weight-bold pix-nav-link  dropdown-item" target="_self"
-                                                    href="/formacion-y-empleo/acredita/"><span
+                                                    href="https://camaralanzarote.org/formacion-y-empleo/acredita/"><span
                                                         class="pix-dropdown-title  text-body-default  font-weight-bold">Acredita</span></a>
                                             </div>
                                             <div itemscope="itemscope"
                                                 itemtype="https://www.schema.org/SiteNavigationElement"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-3323 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                 <a class=" font-weight-bold pix-nav-link  dropdown-item dropdown-toggle"
-                                                    target="_self" href="/formacion-profesional-dual/"
+                                                    target="_self"
+                                                    href="https://camaralanzarote.org/formacion-profesional-dual/"
                                                     data-toggle="dropdown" aria-expanded="false" aria-haspopup="true"
                                                     id="m-menu-item-dropdown-3323"><span
                                                         class="pix-dropdown-title  text-body-default  font-weight-bold">FP
@@ -2373,7 +2388,7 @@
                                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3325 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                                 <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                                     target="_self"
-                                                                    href="/formacion-y-empleo/premios-fp-pymes/"><span
+                                                                    href="https://camaralanzarote.org/formacion-y-empleo/premios-fp-pymes/"><span
                                                                         class="pix-dropdown-title  text-body-default  font-weight-bold">Premio
                                                                         FP Dual</span></a>
                                                             </div>
@@ -2385,7 +2400,7 @@
                                                 itemtype="https://www.schema.org/SiteNavigationElement"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3327 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                 <a class=" font-weight-bold pix-nav-link  dropdown-item" target="_self"
-                                                    href="/agenda/"><span
+                                                    href="https://camaralanzarote.org/agenda/"><span
                                                         class="pix-dropdown-title  text-body-default  font-weight-bold">Agenda/Oferta
                                                         formativa</span></a>
                                             </div>
@@ -2437,7 +2452,7 @@
                                                 itemtype="https://www.schema.org/SiteNavigationElement"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3336 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                 <a class=" font-weight-bold pix-nav-link  dropdown-item" target="_self"
-                                                    href="/internacional/gestion-documental/"><span
+                                                    href="https://camaralanzarote.org/internacional/gestion-documental/"><span
                                                         class="pix-dropdown-title  text-body-default  font-weight-bold">Gestión
                                                         documental/trámites</span></a>
                                             </div>
@@ -2473,7 +2488,8 @@
                                                                 alt="" decoding="async"
                                                                 srcset="https://camaralanzarote.org/wp-content/uploads/2024/02/menu_banner_coworking.jpeg 427w, https://camaralanzarote.org/wp-content/uploads/2024/02/menu_banner_coworking-300x200.jpeg 300w"
                                                                 sizes="(max-width: 427px) 100vw, 427px" /><a
-                                                                target="_blank" href="/coworking/"
+                                                                target="_blank"
+                                                                href="https://camaralanzarote.org/coworking/"
                                                                 class="pix-img-overlay pix-box-container d-md-flex align-items-center w-100 justify-content-center pix-p-20">
                                                                 <div
                                                                     class="h6 heading-font text-heading-default font-weight-bold pix-box-title">
@@ -2501,7 +2517,8 @@
                                                         itemtype="https://www.schema.org/SiteNavigationElement"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14082 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                         <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                            target="_self" href="/alquiler-de-oficinas-y-salas"><span
+                                                            target="_self"
+                                                            href="https://camaralanzarote.org/alquiler-de-oficinas-y-salas"><span
                                                                 class="pix-dropdown-title  text-body-default  font-weight-bold">Alquiler
                                                                 de espacios y tarifas de difusión</span></a>
                                                     </div>
@@ -2509,7 +2526,8 @@
                                                         itemtype="https://www.schema.org/SiteNavigationElement"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14083 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                         <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                            target="_self" href="/club-camara/"><span
+                                                            target="_self"
+                                                            href="https://camaralanzarote.org/club-camara/"><span
                                                                 class="pix-dropdown-title  text-body-default  font-weight-bold">Club
                                                                 Cámara</span></a>
                                                     </div>
@@ -2517,21 +2535,24 @@
                                                         itemtype="https://www.schema.org/SiteNavigationElement"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14085 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                         <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                            target="_self" href="/vuer/"><span
+                                                            target="_self"
+                                                            href="https://camaralanzarote.org/vuer/"><span
                                                                 class="pix-dropdown-title  text-body-default  font-weight-bold">VUER</span></a>
                                                     </div>
                                                     <div itemscope="itemscope"
                                                         itemtype="https://www.schema.org/SiteNavigationElement"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14084 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                         <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                            target="_self" href="/servicios/incubadora/"><span
+                                                            target="_self"
+                                                            href="https://camaralanzarote.org/servicios/incubadora/"><span
                                                                 class="pix-dropdown-title  text-body-default  font-weight-bold">Incubadora</span></a>
                                                     </div>
                                                     <div itemscope="itemscope"
                                                         itemtype="https://www.schema.org/SiteNavigationElement"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14086 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                         <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                            target="_self" href="/ayudas"><span
+                                                            target="_self"
+                                                            href="https://camaralanzarote.org/ayudas"><span
                                                                 class="pix-dropdown-title  text-body-default  font-weight-bold">Unidad
                                                                 de gestión de ayudas</span></a>
                                                     </div>
@@ -2548,7 +2569,8 @@
                                                         itemtype="https://www.schema.org/SiteNavigationElement"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14081 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                         <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                            target="_self" href="/servicios/certificado-digital/"><span
+                                                            target="_self"
+                                                            href="https://camaralanzarote.org/servicios/certificado-digital/"><span
                                                                 class="pix-dropdown-title  text-body-default  font-weight-bold">Certificado
                                                                 Digital</span></a>
                                                     </div>
@@ -2557,7 +2579,7 @@
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22012 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                         <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                             target="_self"
-                                                            href="/servicios/censo-publico-de-empresas/"><span
+                                                            href="https://camaralanzarote.org/servicios/censo-publico-de-empresas/"><span
                                                                 class="pix-dropdown-title  text-body-default  font-weight-bold">Censo
                                                                 público de Empresas</span></a>
                                                     </div>
@@ -2585,7 +2607,8 @@
                                                         itemtype="https://www.schema.org/SiteNavigationElement"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14088 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                         <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                            target="_self" href="/servicios/carta-de-servicios/"><span
+                                                            target="_self"
+                                                            href="https://camaralanzarote.org/servicios/carta-de-servicios/"><span
                                                                 class="pix-dropdown-title  text-body-default  font-weight-bold">Carta
                                                                 de servicios</span></a>
                                                     </div>
@@ -2593,7 +2616,8 @@
                                                         itemtype="https://www.schema.org/SiteNavigationElement"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15101 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                         <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                            target="_self" href="/coworking/"><span
+                                                            target="_self"
+                                                            href="https://camaralanzarote.org/coworking/"><span
                                                                 class="pix-dropdown-title  text-body-default  font-weight-bold">Coworking
                                                                 Digital</span></a>
                                                     </div>
@@ -2601,7 +2625,8 @@
                                                         itemtype="https://www.schema.org/SiteNavigationElement"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17969 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                         <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                            target="_self" href="/subvenciones"><span
+                                                            target="_self"
+                                                            href="https://camaralanzarote.org/subvenciones"><span
                                                                 class="pix-dropdown-title  text-body-default  font-weight-bold">Ayudas
                                                                 y subvenciones</span></a>
                                                     </div>
@@ -2610,7 +2635,7 @@
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14089 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                         <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                             target="_self"
-                                                            href="/servicios/corte-de-arbitraje-y-mediacion/"><span
+                                                            href="https://camaralanzarote.org/servicios/corte-de-arbitraje-y-mediacion/"><span
                                                                 class="pix-dropdown-title  text-body-default  font-weight-bold">Corte
                                                                 de arbitraje y mediación</span></a>
                                                     </div>
@@ -2618,7 +2643,8 @@
                                                         itemtype="https://www.schema.org/SiteNavigationElement"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14087 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                         <a class=" font-weight-bold pix-nav-link  dropdown-item"
-                                                            target="_self" href="/area-de-estudios-economicos/"><span
+                                                            target="_self"
+                                                            href="https://camaralanzarote.org/area-de-estudios-economicos/"><span
                                                                 class="pix-dropdown-title  text-body-default  font-weight-bold">Estudios
                                                                 económicos</span></a>
                                                     </div>
@@ -2627,7 +2653,7 @@
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22514 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100">
                                                         <a class=" font-weight-bold pix-nav-link  dropdown-item"
                                                             target="_self"
-                                                            href="/servicios/certificacion-de-sistemas-de-gestion/"><span
+                                                            href="https://camaralanzarote.org/servicios/certificacion-de-sistemas-de-gestion/"><span
                                                                 class="pix-dropdown-title  text-body-default  font-weight-bold">Cámara
                                                                 Certifica</span></a>
                                                     </div>
@@ -2787,7 +2813,7 @@
                                 <div class="elementor-element elementor-element-36fe35b elementor-widget elementor-widget-pix-button"
                                     data-id="36fe35b" data-element_type="widget" data-widget_type="pix-button.default">
                                     <div class="elementor-widget-container">
-                                        <a href="/aviso-legal/"
+                                        <a href="https://camaralanzarote.org/aviso-legal/"
                                             class="btn m-0      text-light-opacity-6 btn-link text-light-opacity-9 d-flex w-100  justify-content-start  align-items-center no-padding text-left    animate-in btn-md"
                                             data-anim-type="fade-in" data-anim-delay="0"><span class=" ">Aviso
                                                 Legal</span></a>
@@ -2796,7 +2822,7 @@
                                 <div class="elementor-element elementor-element-059397e elementor-widget elementor-widget-pix-button"
                                     data-id="059397e" data-element_type="widget" data-widget_type="pix-button.default">
                                     <div class="elementor-widget-container">
-                                        <a href="/politica-privacidad/"
+                                        <a href="https://camaralanzarote.org/politica-privacidad/"
                                             class="btn m-0      text-light-opacity-6 btn-link text-light-opacity-9 d-flex w-100  justify-content-start  align-items-center no-padding text-left    animate-in btn-md"
                                             data-anim-type="fade-in" data-anim-delay="0"><span class=" ">Política de
                                                 Privacidad y Cookies</span></a>
@@ -2805,7 +2831,7 @@
                                 <div class="elementor-element elementor-element-df7565d elementor-widget elementor-widget-pix-button"
                                     data-id="df7565d" data-element_type="widget" data-widget_type="pix-button.default">
                                     <div class="elementor-widget-container">
-                                        <a href="/portal-de-transparencia/contratos/"
+                                        <a href="https://camaralanzarote.org/portal-de-transparencia/contratos/"
                                             class="btn m-0      text-light-opacity-9 btn-link text-gray-5 d-flex w-100  justify-content-start  align-items-center no-padding text-left    animate-in btn-md"
                                             data-anim-type="fade-in" data-anim-delay="0"><span class=" ">Perfil del
                                                 contratante </span></a>

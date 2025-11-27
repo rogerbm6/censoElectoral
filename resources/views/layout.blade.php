@@ -21,13 +21,15 @@
         <!-- TOP BAR -->
         <div class="flex justify-between items-center text-sm px-6 py-2 bg-gray-200">
             <div class="space-x-4">
-                <a href="#" class="hover:text-red-700">Transparencia y Buen Gobierno</a>
-                <a href="#" class="hover:text-red-700">Fondos Europeos</a>
-                <a href="#" class="hover:text-red-700">Declaración de Accesibilidad</a>
+                <a href="https://www.camaradefuerteventura.org/" class="hover:text-red-700">Transparencia y Buen
+                    Gobierno</a>
+                <a href="https://www.camaradefuerteventura.org/" class="hover:text-red-700">Fondos Europeos</a>
+                <a href="https://www.camaradefuerteventura.org/" class="hover:text-red-700">Declaración de
+                    Accesibilidad</a>
             </div>
 
             <div class="flex items-center space-x-4">
-                <a href="#" class="hover:text-red-700">Acceder</a>
+                <a href="https://www.camaradefuerteventura.org/" class="hover:text-red-700">Acceder</a>
                 <span class="font-semibold cursor-pointer">Fuerteventura ▼</span>
             </div>
         </div>
@@ -40,14 +42,14 @@
             </div>
 
             <nav class="hidden md:flex space-x-6 font-medium text-sm">
-                <a href="#" class="hover:text-red-700">Emprendimiento</a>
-                <a href="#" class="hover:text-red-700">Formación y empleo</a>
-                <a href="#" class="hover:text-red-700">Innovación</a>
-                <a href="#" class="hover:text-red-700">Internacional</a>
-                <a href="#" class="hover:text-red-700">Servicios</a>
-                <a href="#" class="hover:text-red-700">Eventos</a>
-                <a href="#" class="hover:text-red-700">Contacto</a>
-                <a href="#" class="hover:text-red-700">Admin</a>
+                <a href="https://www.camaradefuerteventura.org/" class="hover:text-red-700">Emprendimiento</a>
+                <a href="https://www.camaradefuerteventura.org/" class="hover:text-red-700">Formación y empleo</a>
+                <a href="https://www.camaradefuerteventura.org/" class="hover:text-red-700">Innovación</a>
+                <a href="https://www.camaradefuerteventura.org/" class="hover:text-red-700">Internacional</a>
+                <a href="https://www.camaradefuerteventura.org/" class="hover:text-red-700">Servicios</a>
+                <a href="https://www.camaradefuerteventura.org/" class="hover:text-red-700">Eventos</a>
+                <a href="https://www.camaradefuerteventura.org/" class="hover:text-red-700">Contacto</a>
+                <a href="https://www.camaradefuerteventura.org/" class="hover:text-red-700">Admin</a>
             </nav>
         </div>
 
@@ -106,12 +108,14 @@
             <div>
                 <h3 class="text-white font-bold text-lg mb-4">Enlaces rápidos</h3>
                 <ul class="space-y-2">
-                    <li><a href="#" class="hover:text-white">Creación de Empresas</a></li>
-                    <li><a href="#" class="hover:text-white">Formación</a></li>
-                    <li><a href="#" class="hover:text-white">Internacionalización</a></li>
-                    <li><a href="#" class="hover:text-white">Innovación</a></li>
-                    <li><a href="#" class="hover:text-white">Subvenciones</a></li>
-                    <li><a href="#" class="hover:text-white">Trámites</a></li>
+                    <li><a href="https://www.camaradefuerteventura.org/" class="hover:text-white">Creación de
+                            Empresas</a></li>
+                    <li><a href="https://www.camaradefuerteventura.org/" class="hover:text-white">Formación</a></li>
+                    <li><a href="https://www.camaradefuerteventura.org/"
+                            class="hover:text-white">Internacionalización</a></li>
+                    <li><a href="https://www.camaradefuerteventura.org/" class="hover:text-white">Innovación</a></li>
+                    <li><a href="https://www.camaradefuerteventura.org/" class="hover:text-white">Subvenciones</a></li>
+                    <li><a href="https://www.camaradefuerteventura.org/" class="hover:text-white">Trámites</a></li>
                 </ul>
             </div>
 
@@ -119,12 +123,17 @@
             <div>
                 <h3 class="text-white font-bold text-lg mb-4">Legal</h3>
                 <ul class="space-y-2">
-                    <li><a href="#" class="hover:text-white">Aviso legal</a></li>
-                    <li><a href="#" class="hover:text-white">Política de privacidad</a></li>
-                    <li><a href="#" class="hover:text-white">Política de cookies</a></li>
-                    <li><a href="#" class="hover:text-white">Portal de transparencia</a></li>
-                    <li><a href="#" class="hover:text-white">Perfil del contratante</a></li>
-                    <li><a href="#" class="hover:text-white">Canal de Denuncias</a></li>
+                    <li><a href="https://www.camaradefuerteventura.org/" class="hover:text-white">Aviso legal</a></li>
+                    <li><a href="https://www.camaradefuerteventura.org/" class="hover:text-white">Política de
+                            privacidad</a></li>
+                    <li><a href="https://www.camaradefuerteventura.org/" class="hover:text-white">Política de
+                            cookies</a></li>
+                    <li><a href="https://www.camaradefuerteventura.org/" class="hover:text-white">Portal de
+                            transparencia</a></li>
+                    <li><a href="https://www.camaradefuerteventura.org/" class="hover:text-white">Perfil del
+                            contratante</a></li>
+                    <li><a href="https://www.camaradefuerteventura.org/" class="hover:text-white">Canal de Denuncias</a>
+                    </li>
                 </ul>
             </div>
 
@@ -133,9 +142,9 @@
                 <h3 class="text-white font-bold text-lg mb-4">Síguenos</h3>
 
                 <div class="flex space-x-3 text-xl mb-4">
-                    <a href="#" class="hover:text-white">📘</a>
-                    <a href="#" class="hover:text-white">🔗</a>
-                    <a href="#" class="hover:text-white">📷</a>
+                    <a href="https://www.camaradefuerteventura.org/" class="hover:text-white">📘</a>
+                    <a href="https://www.camaradefuerteventura.org/" class="hover:text-white">🔗</a>
+                    <a href="https://www.camaradefuerteventura.org/" class="hover:text-white">📷</a>
                 </div>
 
                 <p class="mb-4">🕒 Horario: Lunes a Viernes 7:30 - 15:00</p>
