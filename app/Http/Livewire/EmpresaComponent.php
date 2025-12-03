@@ -39,7 +39,12 @@ class EmpresaComponent extends Component
         $this->empresa = $registros->first();
 
         // Listas únicas
-        $this->epigrafes = $registros->pluck('epigrafe')->unique()->values()->toArray();
+        $epigrafesArray = [];
+        $registros->map(function ($item) use (&$epigrafesArray) {
+            $epigrafesArray[$item->epigrafe] = $item->nombre_epigrafe;
+        });
+
+        $this->epigrafes = $epigrafesArray;
         $this->nombre_epigrafes = $registros->pluck('nombre_epigrafe')->unique()->values()->toArray();
         $this->categorias_grupo = $registros->pluck('categoria_grupo')->unique()->values()->toArray();
     }
