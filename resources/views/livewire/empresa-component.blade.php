@@ -177,7 +177,8 @@
         {{-- MENSAJE: no encontrado --}}
     @elseif(!$empresa)
         <div class="cmp-alert cmp-alert-yellow">
-            No se encontró ninguna empresa con el NIF <strong>"{{ $buscar }}"</strong>.
+            Para solucionar la incidencia, contacte con la Cámara de Comercio en el correo <a
+                href="mailto:info@camaralanzarote.org">info@camaralanzarote.org</a>
         </div>
     @endif
 
@@ -208,10 +209,6 @@
                         <p class="cmp-item-value">{{ $empresa->inicio_actividad ?? '—' }}</p>
                     </div>
 
-                    <div>
-                        <p class="cmp-item-label">Ejercicio</p>
-                        <p class="cmp-item-value">{{ $empresa->ejercicio ?? '—' }}</p>
-                    </div>
                 </div>
             </div>
 
@@ -221,48 +218,28 @@
 
                 <div class="cmp-grid">
 
-                    <div>
-                        <p class="cmp-item-label">Epígrafes</p>
+                    <p class="cmp-item-label">Epígrafes</p>
+
+
+
+                    <p class="cmp-item-label">Nombres de epígrafe</p>
+
+                    @foreach ($epigrafes as $epigrafe => $nombreEpigrafe)
+
                         <div>
-                            @foreach($epigrafes as $item)
-                                <span class="cmp-chip">{{ $item }}</span>
-                            @endforeach
+                            <div>
+                                <span class="cmp-chip">{{ $epigrafe }}</span>
+
+                            </div>
                         </div>
-                    </div>
 
-                    <div>
-                        <p class="cmp-item-label">Nombres de epígrafe</p>
-                        <ul class="cmp-list">
-                            @foreach($nombre_epigrafes as $item)
-                                <li>{{ $item }}</li>
-                            @endforeach
-                        </ul>
-                    </div>
-
-                    <div>
-                        <p class="cmp-item-label">Categorías de grupo</p>
                         <div>
-                            @foreach($categorias_grupo as $item)
-                                <span class="cmp-chip cmp-chip-blue">{{ $item }}</span>
-                            @endforeach
+                            <ul class="cmp-list">
+                                <li>{{ $nombreEpigrafe }}</li>
+                            </ul>
                         </div>
-                    </div>
 
-                    <div>
-                        <p class="cmp-item-label">Grupo</p>
-                        <p class="cmp-item-value">{{ $empresa->grupo }}</p>
-                    </div>
-
-                    <div>
-                        <p class="cmp-item-label">Categoría electoral</p>
-                        <span class="cmp-chip cmp-chip-blue">{{ $empresa->categoria_electoral }}</span>
-                    </div>
-
-                    <div>
-                        <p class="cmp-item-label">Nombre categoría electoral</p>
-                        <p class="cmp-item-value">{{ $empresa->categoria_electoral_nombre }}</p>
-                    </div>
-
+                    @endforeach
                 </div>
             </div>
 
@@ -283,28 +260,8 @@
                     </div>
 
                     <div>
-                        <p class="cmp-item-label">Municipio fiscal</p>
-                        <p class="cmp-item-value">{{ $empresa->municipio_fiscal }}</p>
-                    </div>
-
-                    <div>
-                        <p class="cmp-item-label">Municipio actual</p>
-                        <p class="cmp-item-value">{{ $empresa->municipio_actual }}</p>
-                    </div>
-
-                    <div>
                         <p class="cmp-item-label">Código postal</p>
-                        <p class="cmp-item-value">{{ $empresa->codigo_postal ?? '—' }}</p>
-                    </div>
-
-                    <div>
-                        <p class="cmp-item-label">Código municipio fiscal</p>
-                        <p class="cmp-item-value">{{ $empresa->codigo_municipio_fiscal }}</p>
-                    </div>
-
-                    <div>
-                        <p class="cmp-item-label">Código municipio</p>
-                        <p class="cmp-item-value">{{ $empresa->codigo_municipio }}</p>
+                        <p class="cmp-item-value">{{ $empresa->codigo_municipio_fiscal ?? '—' }}</p>
                     </div>
 
                 </div>
