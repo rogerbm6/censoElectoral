@@ -1,0 +1,11 @@
+/vendor/
+/node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.env.backup
+.phpunit.result.cache
+/public/storage
+/storage/*.key
+.idea/
+/.DS_Store
